@@ -1,11 +1,25 @@
 DO NOT EDIT or FORK or DOWNLOAD this repo.
 ============
 
-to use the code you can do: ``pip install pycode``, 
-and import it in your python file: ``import pycode``,
+### Head
+1. 1st item.
+2. 2ed item.
+   - 1st submenu item.
+   - 2ed submenu item.
+3. 3th item.
 
-so what are you witing for?
------------
+### Head 2
+- **A:** is the 1st letter.
+- **B:** is the 2ed letter.
+- **C:** is the 3th letter.
+- **D:** is the 4th letter.
 
-
-##### made by mr.w 
+<hr>
+<div align="center">
+  
+  Made by Mr.w<br>
+  Copyrights © Mr.w 2024<br>
+  [![browser](https://img.shields.io/badge/-black?logo=x&logoColor=white)](https://twitter.com/Wesam2021ly?t=T7-5R2s8xv2HnPtTTj8pvw&s=09)
+  
+</div>
+ 
