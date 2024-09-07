@@ -18,8 +18,11 @@ DO NOT EDIT or FORK or DOWNLOAD this repo.
 <div align="center">
   
   Made by Mr.w<br>
-  Copyrights © Mr.w 2024<br>
-  [![browser](https://img.shields.io/badge/-black?logo=x&logoColor=white)](https://twitter.com/Wesam2021ly?t=T7-5R2s8xv2HnPtTTj8pvw&s=09)
+  Copyrights © Mr.w 2024<br><br>
+  [![x-twitter](https://img.shields.io/badge/X--Twitter-black?logo=x&logoColor=white)](https://twitter.com/Wesam2021ly?t=T7-5R2s8xv2HnPtTTj8pvw&s=09)
+  [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Mr_w_23)
+  [![email](https://img.shields.io/badge/Email-Mail2tor-red.png)](mailto:theman24@mail2tor.com)
+  
   
 </div>
  
